@@ -10,12 +10,12 @@ Meme Generator is a SPA (Single Page Application) for generating funny memes. Th
 
 - ### Screenshot 01
 
-![Screenshot 01]()
+![Screenshot 01](https://github.com/hyperamir/Meme-Generator/blob/main/docs/sh01.png?raw=true)
 
 
 - ### Screenshot 02
 
-![Screenshot 01]()
+![Screenshot 01](https://github.com/hyperamir/Meme-Generator/blob/main/docs/sh02.png?raw=true)
 
 
 
